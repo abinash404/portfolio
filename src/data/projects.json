@@ -1,0 +1,10 @@
+[
+  {
+    "title": "crypto-bay",
+    "imageSrc": "./Screenshot 2024-01-15 124725.png",
+    "description": "user can view the current price , marcate cap and many more thing . here user can watch Trending crypto coins and can save there interested coin , here i used coingecko api to fetch the coins",
+    "skills": ["React", "coingecko api"],
+    "demo": "https://crypto-f5xbqj45s-abinash-bhakats-projects.vercel.app/",
+    "source": "https://github.com/abinash404/cryptoBay.git"
+  }
+]
